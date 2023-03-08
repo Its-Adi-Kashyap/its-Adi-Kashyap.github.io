@@ -70,9 +70,7 @@ _(09/2019 - 05/2021)_
 
 - Maintaining inventory by making sure products are readily available when needed and stored away as per company guidelines.
 - Analyzing paperwork and making sure it is in order before sending it out for processing
--  Maximizing the flow of merchandise from the back room to the sales floor by coordinating with team members.
-   
----
+-  Maximizing the flow of merchandise from the back room to the sales floor by coordinating with team members.  
 
 ## INTERESTS
 Video Games, Mythology, Painting.
