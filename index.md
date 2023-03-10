@@ -75,4 +75,4 @@ _(09/2019 - 05/2021)_
 ## INTERESTS
 Video Games, Mythology, Painting.
 
-[link_linkedIn]: www.linkedin.com/in/aditya-kashyap-10a7b1212
+[link_linkedIn]: https://www.linkedin.com/in/aditya-kashyap-10a7b1212
